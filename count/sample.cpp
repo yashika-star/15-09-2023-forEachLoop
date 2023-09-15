@@ -10,6 +10,6 @@ int main() {
     for(int i=0; i<2; i++) {
         cout << owner[i];
     }
-
+    return 0;
 }
 
